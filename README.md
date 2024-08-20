@@ -3,8 +3,8 @@
 
 # 📍연구과제참여: 감염병 전파를 반영한 행위자 기반 시뮬레이션 모형 개발
 ## (EN) Development of Agent-based Simulation Model for Infectious Disease Transmission
-> 기간: 2023.10 ~ 2023.12
-> 분석 목표: 국내외 행위자기반모형을 통한 감염병 전파 시뮬레이션 동향 파악
+> 기간: 2023.10 ~ 2023.12<br>
+> 분석 목표: 국내외 행위자기반모형을 통한 감염병 전파 시뮬레이션 동향 파악<br>
 > ※ 연구윤리에 의해 개인정보가 담긴 데이터셋는 공개가 어려움
 
 # 📍Prediction Flood
