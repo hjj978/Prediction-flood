@@ -1,7 +1,7 @@
-# 📍INTRO
-- 개인 프로젝트를 올리는 공간입니다.
+# INTRO
+- Personal/Joined project's Archive
 
-# 📍Participant in Research Projects
+# Participant in Research Projects
 #### (KO) 감염병 전파를 반영한 행위자 기반 시뮬레이션 모형 개발
 #### (EN) Development of Agent-based Simulation Model for Infectious Disease Transmission
 > Data: 2023.10 ~ 2023.12<br>
@@ -16,15 +16,8 @@
 > Role: 
 > ※ 연구윤리에 의해 개인정보가 담긴 데이터 및 결과 비공개
 
-# 📍Prediction Flood
+# Personal Project
+#### Prediction Flood
 > To predict flood<br>
 > [Project](https://github.com/hjj978/ML-DL-Projects/blob/5436cced94483581d46b5771d419decb6fd996d3/expect%20flood.ipynb)
-
-# 📍[수정예정]To predict Customer Behavior
-> 고객의 구매 여부 예측<br>
-> [Project]
-
-# 📍[진행중]
-> 고객의 구매 여부 예측<br>
-> [Project]
 
